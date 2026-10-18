@@ -1,0 +1,17 @@
+rank,product,sub_product,prev,curr,growth,rel_growth,s_growth,s_volume,s_lmi,s_spread,s_buyer,score,top_company,top_company_share,n_states,n_grants
+1,Mortgage,FHA mortgage,4200,7532,1.79,1.59,4.0,3.9,5,4.5,1,4.04,"Rocket Mortgage, LLC",0.101,54,1
+2,"Payday loan, title loan, personal loan, or advance loan",Installment loan,6353,11541,1.82,1.61,4.1,4.2,5,4.2,0.0,3.95,"Affirm Holdings, Inc",0.167,56,0
+3,Mortgage,VA mortgage,2372,3923,1.65,1.47,3.3,3.3,4,4.5,4,3.78,Freedom Mortgage Company,0.104,56,4
+4,"Payday loan, title loan, personal loan, or advance loan",Payday loan,1991,2782,1.4,1.24,2.2,3.0,5,4.7,0.0,3.3,"Dave Operating, LLC",0.056,52,0
+5,Mortgage,USDA mortgage,226,363,1.6,1.42,3.1,1.2,5,3.8,1,3.22,Freedom Mortgage Company,0.127,44,1
+6,Vehicle loan or lease,Loan,16075,21911,1.36,1.21,2.0,4.8,4,4.5,0.0,3.22,"SANTANDER HOLDINGS USA, INC.",0.097,57,0
+7,Debt collection,Rental debt,10630,12181,1.15,1.02,1.1,4.3,5,3.9,2,3.21,"National Credit Systems,Inc.",0.227,54,2
+8,Vehicle loan or lease,Lease,2310,3479,1.51,1.34,2.7,3.2,4,4.4,0.0,3.17,HYUNDAI CAPITAL AMERICA,0.112,53,0
+9,"Money transfer, virtual currency, or money service",International money transfer,2228,2903,1.3,1.16,1.8,3.0,5,4.4,0.0,3.12,"WESTERN UNION COMPANY, THE",0.115,55,0
+10,"Payday loan, title loan, personal loan, or advance loan",Personal line of credit,2156,2649,1.23,1.09,1.5,2.9,5,4.6,0.0,3.05,"ENOVA INTERNATIONAL, INC.",0.085,53,0
+11,Debt collection,Payday loan debt,2617,2916,1.11,0.99,0.9,3.0,5,4.7,1,3.01,"National Credit Adjusters, LLC",0.059,52,1
+12,"Money transfer, virtual currency, or money service",Mobile or digital wallet,14468,19747,1.36,1.21,2.0,4.7,4,3.1,0.0,2.92,"Paypal Holdings, Inc",0.373,58,0
+13,Mortgage,Manufactured home loan,281,408,1.45,1.29,2.5,1.3,5,2.8,1,2.85,21ST MORTGAGE CORP.,0.311,40,1
+14,"Payday loan, title loan, personal loan, or advance loan",Other advances of future income,251,341,1.36,1.2,2.0,1.2,5,4.1,0.0,2.85,"Block, Inc.",0.053,43,0
+15,"Payday loan, title loan, personal loan, or advance loan",Title loan,839,983,1.17,1.04,1.2,2.1,5,3.6,0.0,2.65,CCF Intermediate Holdings LLC,0.25,48,0
+16,Prepaid card,Government benefit card,1714,1999,1.17,1.03,1.2,2.7,5,2.9,0.0,2.59,Comerica,0.429,52,0
