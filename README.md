@@ -9,7 +9,7 @@ Rebel One's Reg Tracker watches legislation. This adds two demand signals it can
 | **CFPB Consumer Complaint Database** (≈7M complaints/yr, public API, no key) | A **problem worth solving** that is growing | Structured, national, updated daily, tagged by product, issue, company, state and ZIP. The closest thing to a live record of financial pain for LMI families. |
 | **Grants.gov** (public API, no key) | **Someone is paying** for a solution | Open and forecasted federal funding = ready buyers, distribution partners or non-dilutive funding for a venture. |
 
-**Dashboard:** `docs/index.html` (open it locally, or via GitHub Pages: Settings → Pages → `main` / `docs`).
+**Live dashboard:** https://myesmin.github.io/rebelone_build_challenge/ (built from `docs/index.html`)
 
 ## What it does
 ```
@@ -72,4 +72,3 @@ Computed in `src/score.py`, judged by Claude, defined once in
 - **Claude Code (Opus 5.5):** tested the APIs, discovered the narrative removal, wrote the pipeline, and ran the venture screen.
 - **Project skills** (`.claude/skills/`): `find-signals` (end-to-end run), `venture-screen` (memo plus rubric, also packaged for claude.ai), `add-source` (extension guide). `CLAUDE.md` holds the project brief.
 - **Claude API** (`src/llm.py`, `claude-opus-5-5`): the same skill as its system prompt. I ran it as a **second, independent screen** (`output/analyses_api/`). The two screens agreed on 3 of 8 verdicts (both say **Pursue** on FHA). The API was stricter on "named buyer" (BNPL and auto: Pursue → Watch) and never chose Discard. Disagreements are flagged on the dashboard for human review.
-- Total time: _[fill in]_ (4-hour limit). API cost: _[fill in]_.
